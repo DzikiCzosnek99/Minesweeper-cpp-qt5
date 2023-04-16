@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="&apos;$(Configuration)|$(Platform)&apos;==&apos;Debug|x64&apos;">
     <ClCompile>
-      <AdditionalIncludeDirectories>&quot;E:\Projekty git\Saper\Saper\Saper\x64\Debug\qmake\temp&quot;;E:\QT5\5.15.0\msvc2019_64\include;E:\QT5\5.15.0\msvc2019_64\include\QtWidgets;E:\QT5\5.15.0\msvc2019_64\include\QtGui;E:\QT5\5.15.0\msvc2019_64\include\QtANGLE;E:\QT5\5.15.0\msvc2019_64\include\QtCore;&quot;E:\Projekty git\Saper\Saper\Saper\x64\Debug\qmake\temp&quot;;/include;E:\QT5\5.15.0\msvc2019_64\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\przem\AppData\Local\Temp\k3ygwpry.05v;E:\QT5\5.15.0\msvc2019_64\include;E:\QT5\5.15.0\msvc2019_64\include\QtWidgets;E:\QT5\5.15.0\msvc2019_64\include\QtGui;E:\QT5\5.15.0\msvc2019_64\include\QtANGLE;E:\QT5\5.15.0\msvc2019_64\include\QtCore;C:\Users\przem\AppData\Local\Temp\k3ygwpry.05v;/include;E:\QT5\5.15.0\msvc2019_64\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>-Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
       <AssemblerListingLocation>.\</AssemblerListingLocation>
       <BrowseInformation>false</BrowseInformation>
